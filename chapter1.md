@@ -201,3 +201,6 @@ broken english
     - 브라우저 확장 도구
     - 에디터 확장 도구
     - 또한 남의 오픈소스 프로젝트를 수정해서 contributor가 되어 보는 것도 좋을 것이다.
+- css 스타일- 색 팔레트
+  - ![색깔 팔레트](캡처.PNG)
+  - https://getmdl.io/customize/index.html
