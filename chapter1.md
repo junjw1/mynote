@@ -193,6 +193,7 @@ broken english
 - 꿀 사이트
   - pngimg.com
   - pixabay.com
+  - favicon.com
 - 크롬 웹 스토어 (크롬 확장도구)
   - adguard 타의 추종을 불허하는 광고차단 앱!
     - 앱스토어라곤 구글플레이밖에 몰랐지...
