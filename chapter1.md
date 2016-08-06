@@ -81,11 +81,6 @@ A. 스위스
 3. 디자인/개발
   - 프로젝트할때 사용자 입장에서 그림을 그려보는 것은 아주 좋다.
 
-
-* UI/레이아웃 스케치 프로그램 추천
-  * pencil.evolus.vn
-  * balsamiq.com
-
 ## 간단한 웹앱 만들기
 
 ##### bitnami
@@ -152,6 +147,9 @@ sw를 변경하기 쉬운건 맞으나, 개발하다보면 프로그램의 복�
 ---
 
 ## 깨알 정보
+* UI/레이아웃 스케치 프로그램 추천
+  * pencil.evolus.vn
+  * balsamiq.com
 - ms 네트워크 기초 강의
   - MS virtual academy
 - 픽토그램 등을 모아둔 사이트. ppt 작성시 유용.
