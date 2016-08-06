@@ -146,8 +146,13 @@ broken english
 파이선, 루비는 미국에서 나온게 아님
 
 ## 간단한 사이트 만들기
+##### bitnami, atom 설치
+##### 서버와 클라이언트
+웹브라우저가 설치된 컴퓨터는 클라이언트
+모르는 건 마법 아는 건 기술
+
 
 ## note
-- ms 네트워크 강의
+- ms 네트워크 강의 ==> facebook
 - 픽토그램등을 모아둔 사이트. ppt이미지 유용. https://thenounproject.com/
-- 
+- deezer.com 노래
