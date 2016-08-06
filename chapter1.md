@@ -165,7 +165,7 @@ broken english
 - Apache (http web server)
 - IIS
 - nginx 
-
+![서버와 클라이언트](그림1.png)
 
 추상적인 것 너무나 힘들어
 구체적인 것 내놔
