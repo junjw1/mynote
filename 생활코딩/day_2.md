@@ -33,10 +33,12 @@ tag selector : 포괄적이고 정교하지 않은 선택자. 모든 태그를 �
 display프로퍼티에 inline이나 block 요소로 인위적으로 설정할 수 있다.
 
 block level element(tag)
-- 블럭 
+- 블럭 레벨
 
 inline level element(tag)
-- 한줄
+- 인라인 레벨
+
+
 
 ## impressive
 거대 목표만 보고 달려가면
@@ -46,6 +48,13 @@ inline level element(tag)
 개발자는 생산자이다. 개인정보를 소중하게 다뤄라
 
 그 누구도 평범하지 않다. 누구나 최고가 될순 없지만 누구나 고유하다.
+
+기능이 많아지면 케어해야할 것들이 많아진다.
+완성도를 100%까지 가는 일은 굉장히 힘든일이다.
+
+>선택의 문제
+
+90% 완성도까지 갈 것이냐 100%까지 갈 것이냐
 
 ## ID/PW
 - disqus.com
