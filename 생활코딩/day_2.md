@@ -80,7 +80,11 @@ http://localhost/3.html
 
 php 설정파일 수정하자
 
-opchache_enable = 1 -> 0
+opcache_enable = 1 -> 0
+  - OPcache를 사용하지 않기 위해서 이다.
+  - PHP 7.0에 내장된 새로운 캐시엔진이다.
+  - PHP script 를 bytecode로 컴파일한 후에 공유 메모리에 저장하여 성능을 향상시키는 모듈이다.
+  
 display_errors = Off -> On
 
 apache를 껐다 켜자(restart). 아파치에 php가 실행되고 있으므로, php 환경설정 파일이 반영된다.
