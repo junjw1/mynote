@@ -13,8 +13,12 @@ DISQUS : http://disqus.com
   - 1번 코드를 복사하고 적용할 html에 붙여넣기한다.
 ![disqus 댓글 기능](disqus댓글기능사용하기.PNG)
 
+## UserLike
+아래 코드를 html페이지 </body>위에 붙여 넣는다.
+```
+ <script type="text/javascript" src="//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/7718d927ca342ba3a38bc29179506b34498bd2f2942176763f057cb33f9e19f7.js"></script> 
+```
 ## CSS
-
 ![css 문법](css-syntax.PNG)
 
 ####selector
@@ -55,9 +59,15 @@ inline level element(tag)
 90% 완성도까지 갈 것이냐 100%까지 갈 것이냐
 높은 완성도까지 가는 것은 굉장히 노력을 필요로한다. 애플처럼 전세계사람들이 사용할 것이면 완성도에서 타협하지 않아야한다. 그러나 혼자 쓸 것이거나 사용자 범위가 좁아진다면 완성도를 적당한 선에서 타협하는 것이 훨씬 현명할 수 있다.
 
+> 프로그래밍하는 것은 어학연수 온 것과 비슷하다.
+
+언젠가는 한글로 된 자료에 한계를 느낄 것이다. 느껴야한다. 느끼지 않으면 열심히 하지 않은 것이다. 느리더라도 영어를 읽자. 실력으로 꾸준히 축적된다.
+영어랑 씨름을 해버리면 빨리 지칠수 있지만... 장기전에 대비하라.
+
 ## ID/PW
 - disqus.com
   - facebook/ame@nav/eh234
 - uploadcare.com
   - github로 로그인 /ju@da/d4
-
+- userlike.com
+  - facebook 로그인
