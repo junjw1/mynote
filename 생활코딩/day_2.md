@@ -54,6 +54,9 @@ inline level element(tag)
 
 우측 상단 점 3개를 누르고 show console 하면 하단에 console창 같이 볼 수 있다.
 
+## Atom
+코드라인 정렬 - atom beautify
+
 ## impressive
 거대 목표만 보고 달려가면
 근본적인 것을 배우기 위한 징검다리, 그 스스로 자체가 쓸모있는 것을 놓치기 쉽다.
