@@ -91,6 +91,10 @@ display_errors = Off -> On
 
 apache를 껐다 켜자(restart). 아파치에 php가 실행되고 있으므로, php 환경설정 파일이 반영된다.
 
+#### PHP 동작 방식
+중요!!
+
+#### 예제에 php 적용하기
 
 
 ## impressive
