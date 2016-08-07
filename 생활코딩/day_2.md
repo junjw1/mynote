@@ -27,6 +27,16 @@ tag selector : 포괄적이고 정교하지 않은 선택자. 모든 태그를 �
 
 표현력이 짱! 복잡한 일을 어떻게 이렇게 간결하게 표현할 수 있을까!
 
+#### Box model
+
+각 tag들 마다 기본값을 가지고 있다.
+display프로퍼티에 inline이나 block 요소로 인위적으로 설정할 수 있다.
+
+block level element(tag)
+- 블럭 
+
+inline level element(tag)
+- 한줄
 
 ## impressive
 거대 목표만 보고 달려가면
