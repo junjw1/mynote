@@ -58,14 +58,16 @@ inline level element(tag)
 코드라인 정렬 - atom beautify
 
 ## PHP
-- http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=919870
-- http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=253085
-- http://www.clien.net/cs2/bbs/board.php?bo_table=jirum&wr_id=578889
-
-- http://localhost/1.html
-- http://localhost/2.html
-- http://localhost/3.html
-
+```
+http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=919870
+http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=253085
+http://www.clien.net/cs2/bbs/board.php?bo_table=jirum&wr_id=578889
+```
+```
+http://localhost/1.html
+http://localhost/2.html
+http://localhost/3.html
+```
 하나의 php파일로 여러개를
 
 우리는 각 페이지를 표하는 만큼의 html파일을 가지고 있다.
