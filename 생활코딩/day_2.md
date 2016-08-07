@@ -77,7 +77,7 @@ http://localhost/3.html
 php 설정파일 수정하자
 
 opchache_enable = 1 -> 0
-display_errors = Off -> on
+display_errors = Off -> On
 
 apache를 껏다 켜자. 아파치에 php가 실행되고 있으므로, php 환경설정 파일이 반영된다.
 
