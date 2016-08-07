@@ -18,6 +18,8 @@ DISQUS : http://disqus.com
 ```
  <script type="text/javascript" src="//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/7718d927ca342ba3a38bc29179506b34498bd2f2942176763f057cb33f9e19f7.js"></script> 
 ```
+우측 하단에 채팅창이 생기고, 사이트 관리자에게 실시간으로 문의할 수 있다. 사이트 관리자는 userlike 홈페이지 내에서 즉답할 수 있다. 
+
 ## CSS
 ![css 문법](css-syntax.PNG)
 
