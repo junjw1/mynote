@@ -20,6 +20,8 @@ DISQUS : http://disqus.com
 ```
 우측 하단에 채팅창이 생기고, 사이트 관리자에게 실시간으로 문의할 수 있다. 사이트 관리자는 userlike 홈페이지 내에서 즉답할 수 있다. 
 
+**API 라이브러리 플러그인 서드파티 위젯**
+
 ## CSS
 ![css 문법](css-syntax.PNG)
 
@@ -43,6 +45,8 @@ block level element(tag)
 
 inline level element(tag)
 - 인라인 레벨
+
+
 
 #### 탈 웹 화
 웹을 벗어나 적용 범위가 확장되어 가고 있다. atom 에디터도 html, css, 
