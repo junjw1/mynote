@@ -74,7 +74,7 @@ http://localhost/3.html
 
 #### 1.html과 1.php의 비교
 
-html에는 php코드가 그냥 표시되고, php는 php코드가 실행된 결과가 나온다.
+.html에는 php코드가 그냥 표시되고, .php는 php코드가 실행된 결과가 나온다.
 
 #### php.ini
 
@@ -83,7 +83,7 @@ php 설정파일 수정하자
 opchache_enable = 1 -> 0
 display_errors = Off -> On
 
-apache를 껏다 켜자. 아파치에 php가 실행되고 있으므로, php 환경설정 파일이 반영된다.
+apache를 껐다 켜자(restart). 아파치에 php가 실행되고 있으므로, php 환경설정 파일이 반영된다.
 
 ## impressive
 거대 목표만 보고 달려가면
