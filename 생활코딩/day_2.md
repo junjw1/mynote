@@ -38,8 +38,6 @@ block level element(tag)
 inline level element(tag)
 - 인라인 레벨
 
-
-
 ## impressive
 거대 목표만 보고 달려가면
 근본적인 것을 배우기 위한 징검다리, 그 스스로 자체가 쓸모있는 것을 놓치기 쉽다.
