@@ -72,6 +72,15 @@ http://localhost/3.html
 
 우리는 각 페이지를 표하는 만큼의 html파일을 가지고 있다.
 
+#### php.ini
+
+php 설정파일 수정하자
+
+opchache_enable = 1 -> 0
+display_errors = Off -> on
+
+apache를 껏다 켜자. 아파치에 php가 실행되고 있으므로, php 환경설정 파일이 반영된다.
+
 ## impressive
 거대 목표만 보고 달려가면
 근본적인 것을 배우기 위한 징검다리, 그 스스로 자체가 쓸모있는 것을 놓치기 쉽다.
