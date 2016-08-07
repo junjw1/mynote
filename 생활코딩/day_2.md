@@ -69,6 +69,7 @@ http://localhost/2.html
 http://localhost/3.html
 ```
 하나의 php파일로 여러개를
+- id 그 값에 해당되는 페이지를 만들어준다.
 
 우리는 각 페이지를 표하는 만큼의 html파일을 가지고 있다.
 
