@@ -44,6 +44,10 @@ block level element(tag)
 inline level element(tag)
 - 인라인 레벨
 
+#### 탈 웹 화
+웹을 벗어나 적용 범위가 확장되어 가고 있다. atom 에디터도 html, css, 
+크롬 개발자 도구 chromium이라는 플랫폼위에서 크롬 브라우저가 만들어졌음. 그위에서 atom이 만들어졌다. amot menu > view > developer > toggle developer tools를 누르면 크롬개발자도구를 볼 수 있다.
+
 ## impressive
 거대 목표만 보고 달려가면
 근본적인 것을 배우기 위한 징검다리, 그 스스로 자체가 쓸모있는 것을 놓치기 쉽다.
