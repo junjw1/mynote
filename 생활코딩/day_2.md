@@ -70,27 +70,26 @@ http://www.clien.net/cs2/bbs/board.php?bo_table=jirum&wr_id=578889
 
 아래는 하나의 php파일로 여러개의 html을 표현하고 있다. board.php가 id 값에 해당되는 페이지를 만들어준다.
 
-#### 1.html과 1.php의 비교
-
-.html에는 php코드가 그냥 표시되고, .php는 php코드가 실행된 결과가 나온다.
-
 #### php.ini
 
 php 설정파일 수정하자
 
-opcache_enable = 1 -> 0
-  - OPcache를 사용하지 않기 위해서 이다.
-  - PHP 7.0에 내장된 새로운 캐시엔진이다.
+**opcache_enable = 1 -> 0**
+- OPcache를 사용하지 않기 위해서이다.
+  - OPcache란 PHP 7.0에 내장된 새로운 캐시엔진이다.
   - PHP script 를 bytecode로 컴파일한 후에 공유 메모리에 저장하여 성능을 향상시키는 모듈이다.
-  - 캐싱! JS에서 요소를 캐싱해 놓으면 DOM조작이 더 빨라진다. (DOM캐싱)
-  - 참고 : http://blog.alyac.co.kr/619
+  - DOM 캐싱: JS에서 요소를 캐싱해 놓으면 DOM조작이 더 빨라진다.
+  - 참고 : http://blog.alyac.co.kr/619, NHN은 이렇게 한다
 
-display_errors = Off -> On
+**display_errors = Off -> On**
+- 에러 출력
 
-apache를 껐다 켜자(restart). 아파치에 php가 실행되고 있으므로, php 환경설정 파일이 반영된다.
+apache를 껐다 켜자(restart). 아파치에 php가 실행되고 있으므로, 변경한 php.ini(PHP 환경설정 파일)이 반영되도록 하자.
 
 #### PHP 동작 방식
-중요!!
+
+**1.html과 1.php의 비교**
+.html에는 php코드가 그냥 표시되고, .php는 php코드가 실행된 결과가 나온다.
 
 #### 예제에 php 적용하기
 
