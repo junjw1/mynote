@@ -72,11 +72,11 @@ http://localhost/3.html
 
 우리는 각 페이지를 표하는 만큼의 html파일을 가지고 있다.
 
-#### php.ini
-
-/php/1.html과 /php/1.php의 비교
+#### /php/1.html과 /php/1.php의 비교
 
 html에는 php코드가 그냥 표시되고, php는 php코드가 실행된 결과가 나온다.
+
+#### php.ini
 
 php 설정파일 수정하자
 
