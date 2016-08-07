@@ -21,8 +21,8 @@ DISQUS : http://disqus.com
 
 *셀렉터 우선순위는 구체적일 수록 높고 포괄적일 수록 낮다.*
 
-id selector : 문서에서 단 한번만 등장한다. (학번)
-class selector : (반)
+id selector : 문서에서 단 한번만 등장한다. (학교에서 학번)
+class selector : (학교에서 반)
 tag selector : 포괄적이고 정교하지 않은 선택자. 모든 태그를 선택
 
 표현력이 짱! 복잡한 일을 어떻게 이렇게 간결하게 표현할 수 있을까!
