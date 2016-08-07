@@ -1,4 +1,4 @@
-# 수업 2차
+# 수업 2일차
 
 ---
 
@@ -26,51 +26,49 @@ DISQUS : http://disqus.com
 
 ####selector
 
-**셀렉터 우선순위는 구체적일 수록 높고 포괄적일 수록 낮다.**
+**선택자 우선순위는 구체적일 수록 높고 포괄적일 수록 낮다.**
 
-id selector : 요소의 식별자 역할을 하므로, 문서에서 단 한번만 등장한다. (학교에서 학번)
-class selector : (학교에서 반)
-tag selector : 포괄적이고 정교하지 않은 선택자. 모든 태그를 선택한다.
+- id selector : 요소의 식별자 역할을 하므로, 문서에서 단 한번만 등장한다. (학교에서 학번)
+- class selector : (학교에서 반)
+- tag selector : 포괄적이고 정교하지 않은 선택자. 모든 태그를 선택한다.
 
-표현력이 짱! 복잡한 일을 어떻게 이렇게 간결하게 표현할 수 있을까!
+***// 프로그래밍 코드는 표현력이 짱! 복잡해보이는 일을 이렇게 간결하게 표현하다니!***
 
-#### Box model
+#### HTML tag는 각각 스타일 기본값을 가지고 있다.
 
-각 tag들 마다 기본값을 가지고 있다.
-display 프로퍼티에 inline이나 block 요소로 인위적으로 설정할 수 있다.
+각 태그들마다 스타일 기본값을 가지고 있다. display 프로퍼티에 inline 또는 block으로 값을 지정하여 기본값을 다르게 설정할 수 있다.
 
-block level element(tag)
-- 블럭 레벨
-
-inline level element(tag)
-- 인라인 레벨
-
-#### 탈 웹 화
-웹을 벗어나 적용 범위가 확장되어 가고 있다. atom 에디터도 html, css, 
-크롬 개발자 도구 chromium이라는 플랫폼위에서 크롬 브라우저가 만들어졌음. 그위에서 atom이 만들어졌다. amot menu > view > developer > toggle developer tools를 누르면 크롬개발자도구를 볼 수 있다.(단축키 ctrl + alt + i)
-
-**크롬 개발자 도구 팁**
-
-우측 상단 점 3개를 누르고 show console 하면 하단에 console창 같이 볼 수 있다.
+- block level elements(tag)
+  - 블럭 레벨 태그
+  - `<a>`, `<strong>`, `<div>` 등
+- inline level elements(tag)
+  - 인라인 레벨 태그
+  - `<h1>`, `<li>` 등
 
 ## Atom
-코드라인 정렬 - atom beautify
+#### 웹 프로그래밍 언어의 탈 웹 화
+예전에 웹을 주로 작성하던 언어들은 최근 웹을 벗어나 적용 범위가 확장되어 가고 있다. atom 에디터도 html, css, javascript로 만들어졌다. 
+
+크롬 개발자 도구 chromium이라는 플랫폼위에서 크롬 브라우저가 만들어졌고, 그 위에서 atom이 만들어졌다. github 회사가 만들었다. atom menu > view > developer > toggle developer tools를 누르면 크롬개발자도구를 볼 수 있다(단축키 ctrl + alt + i).
+
+#### 확장도구
+- 코드라인 정렬 - atom beautify
 
 ## PHP
-```
-http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=919870
-http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=253085
-http://www.clien.net/cs2/bbs/board.php?bo_table=jirum&wr_id=578889
-```
+#### URL 비교
 ```
 http://localhost/1.html
 http://localhost/2.html
 http://localhost/3.html
 ```
-하나의 php파일로 여러개를
-- id 그 값에 해당되는 페이지를 만들어준다.
+```
+http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=919870
+http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=253085
+http://www.clien.net/cs2/bbs/board.php?bo_table=jirum&wr_id=578889
+```
+위는 각 페이지를 표하는 만큼의 html파일을 가지고 있다.
 
-우리는 각 페이지를 표하는 만큼의 html파일을 가지고 있다.
+아래는 하나의 php파일로 여러개의 html을 표현하고 있다. board.php가 id 값에 해당되는 페이지를 만들어준다.
 
 #### 1.html과 1.php의 비교
 
@@ -239,6 +237,14 @@ sw만드는 것도 표현이다
 
 이고잉 @ 메일 
 
+## 생각
+난 이미 웹 개발에 대해 안다고 생각했는데 사실 아는 게 아는 것이 아니었다.
+
+해오면서 불확신했던 부분에대해 확신을 주고 혼란스러웠던 부분에 
+
+그리고 후회하거나 스스로 자책했던 부분에 대해 많은 위로가 되었다.
+
+어떤 부분은 확신을 가지게 해주고 어떤 부분은 반성하게 되었다.
 
 ## ID/PW
 - disqus.com
