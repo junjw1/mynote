@@ -1,24 +1,23 @@
 # 수업 2차
 
-## 질문하기
-
-## 생각
+---
 
 ## DISQUS
 댓글 기능을 가져와서 내 사이트에 추가해보자.
 
 DISQUS : http://disqus.com
-  - 회원가입하고 site를 만든다
-  - 만든 site에서 settings 탭을 누르고 univesal code를 누른다.
-  - 1번 코드를 복사하고 적용할 html에 붙여넣기한다.
+- 회원가입하고 site를 만든다
+- 만든 site에서 settings 탭을 누르고 univesal code를 누른다.
+- 1번 코드를 복사하고 적용할 html에 붙여넣기한다.
 ![disqus 댓글 기능](disqus댓글기능사용하기.PNG)
 
 ## UserLike
-아래 코드를 html페이지 </body>위에 붙여 넣는다.
+- 회원가입을하고 가이드에 나오는 코드를 적용할 html페이지 </body>위에 붙여 넣는다.
 ```
  <script type="text/javascript" src="//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/7718d927ca342ba3a38bc29179506b34498bd2f2942176763f057cb33f9e19f7.js"></script> 
 ```
-우측 하단에 채팅창이 생기고, 사이트 관리자에게 실시간으로 문의할 수 있다. 사이트 관리자는 userlike 홈페이지 내에서 즉답할 수 있다. 
+- 우측 하단에 채팅창이 생기고, 사이트 관리자에게 실시간으로 문의할 수 있다. 
+- 사이트 관리자는 userlike 홈페이지 내에서 즉답할 수 있다. 
 
 **API 라이브러리 플러그인 서드파티 위젯**
 
@@ -27,18 +26,18 @@ DISQUS : http://disqus.com
 
 ####selector
 
-*셀렉터 우선순위는 구체적일 수록 높고 포괄적일 수록 낮다.*
+**셀렉터 우선순위는 구체적일 수록 높고 포괄적일 수록 낮다.**
 
-id selector : 문서에서 단 한번만 등장한다. (학교에서 학번)
+id selector : 요소의 식별자 역할을 하므로, 문서에서 단 한번만 등장한다. (학교에서 학번)
 class selector : (학교에서 반)
-tag selector : 포괄적이고 정교하지 않은 선택자. 모든 태그를 선택
+tag selector : 포괄적이고 정교하지 않은 선택자. 모든 태그를 선택한다.
 
 표현력이 짱! 복잡한 일을 어떻게 이렇게 간결하게 표현할 수 있을까!
 
 #### Box model
 
 각 tag들 마다 기본값을 가지고 있다.
-display프로퍼티에 inline이나 block 요소로 인위적으로 설정할 수 있다.
+display 프로퍼티에 inline이나 block 요소로 인위적으로 설정할 수 있다.
 
 block level element(tag)
 - 블럭 레벨
